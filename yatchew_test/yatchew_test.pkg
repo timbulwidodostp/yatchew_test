@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'yatchew_test': Yatchew (1997), de Chaisemartin and D'Haultfoeuille (2024) linearity test Use yatchew_test With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f yatchew_test.ado
+f yatchew_test.sthlp
