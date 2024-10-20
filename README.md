@@ -1,6 +1,8 @@
 # yatchew_test
 Yatchew (1997), de Chaisemartin and D'Haultfoeuille (2024) linearity test Use yatchew_test With STATA 18
 
+https://www.youtube.com/watch?v=UzwFSCNqwOk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
